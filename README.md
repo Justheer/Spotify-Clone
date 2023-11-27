@@ -1,1 +1,1 @@
-# Spotify-Clone
+HTML & CSS Music Player: In this project, have build a music player using HTML CSS and js. This music player have all the features found in a typical music player. You will be able to use, play, pause and seek songs that have been added.  # Spotify-Clone
